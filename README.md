@@ -5,9 +5,9 @@ Curso de LInkedIn sobre github para progrmadores.
 1. [Información general](#infoGeneral)
 2. [Tecnologias](#tecnologias)
 3. [Instalación](#instalación)
-***
+4. [Referencias](#referencias)
 
-###Información general
+### Información general
 Este repositorio es de prueba, es una repositorio que acompaña el curso de GitHub para programadores en LinkedIn
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ***
@@ -27,3 +27,7 @@ EL proyecta cuenta con archivos de distintas extenisones por tanto al ejecutar o
 > Maybe you want to write a quote in this part. 
 > It should go over several rows?
 > This is how you do it.
+```
+
+### Referencias
+*[Plantilla: ](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/archivo-readme/)*
