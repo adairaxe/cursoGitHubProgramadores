@@ -5,18 +5,19 @@ Curso de LInkedIn sobre github para progrmadores.
 1. [Información general](#infoGeneral)
 2. [Tecnologias](#tecnologias)
 3. [Instalación](#instalación)
+***
 
 ###Información general
-***
 Este repositorio es de prueba, es una repositorio que acompaña el curso de GitHub para programadores en LinkedIn
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+***
 
 ### Technologies
-***
 A list of technologies used within the project:
 * [LinkedIn](https://example.com) 
 * [Ubuntu](https://example.com)
 * [archivos txt](https://example.com)
+***
 
 ### Installation
 Clonación del repositorio
