@@ -1,21 +1,28 @@
 # cursoGitHubProgramadores
 Curso de LInkedIn sobre github para progrmadores.
 
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
+## Tabla de contenido
+1. [Información general](#infoGeneral)
+2. [Tecnologias](#tecnologias)
+3. [Instalación](#instalación)
+
+###Información general
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
+Este repositorio es de prueba, es una repositorio que acompaña el curso de GitHub para programadores en LinkedIn
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+
+### Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
+* [LinkedIn](https://example.com) 
+* [Ubuntu](https://example.com)
+* [archivos txt](https://example.com)
+
+### Installation
+Clonación del repositorio
+```
+$ git clone https://cursoGitHubProgramadores.com
+EL proyecta cuenta con archivos de distintas extenisones por tanto al ejecutar o instalar dependencias en algunos de ellos los siguientes mensajes pueden mostrarse en su consola:
+> Maybe you want to write a quote in this part. 
+> It should go over several rows?
+> This is how you do it.
